@@ -1,4 +1,5 @@
 # SeiTools
+DEV CHANNEL: https://t.me/lang_crypto
 
 # Features
 
