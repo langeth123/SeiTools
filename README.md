@@ -18,6 +18,7 @@ THREAD_RUNNER_SLEEP = 1 # отвечает за задержкой между с
 
 Чтобы начать работу:
  - Загрузи аккаунты в формате: address:discord_token:proxy в файлик data.txt (папка data)
+ -
  Прокси в формате: login:pass@ip:port (http)
  Если прокси не используете, то можно вставить: address:discord_token
 
