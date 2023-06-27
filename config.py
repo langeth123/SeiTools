@@ -30,7 +30,7 @@ ACCOUNTS = []
 
 for i in DATA:
     try:
-        temp_data = i.replace(" ", "").split(":")
+        temp_data = i.replace(" ", "").split(":", maxsplit=2)
         if len(temp_data) == 2:
             logger.info(f'[{temp_data[0]}] Runnig thread without proxies')
             ACCOUNTS.append(
